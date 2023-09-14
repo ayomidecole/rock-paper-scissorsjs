@@ -1,3 +1,3 @@
 # rock-paper-scissorsjs
 
-#My first JavaScript game
+My first JavaScript game
